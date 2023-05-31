@@ -1,0 +1,622 @@
+<premis xmlns="info:lc/xmlns/premis-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd" version="2.0">
+<object xsi:type="representation">
+<objectIdentifier>
+<objectIdentifierType>FDsys ACP</objectIdentifierType>
+<objectIdentifierValue>R0b002ee1b731995b</objectIdentifierValue>
+</objectIdentifier>
+</object>
+<object xsi:type="file">
+<objectIdentifier>
+<objectIdentifierType>FDsys ACP</objectIdentifierType>
+<objectIdentifierValue>D09002ee1b73199f1</objectIdentifierValue>
+</objectIdentifier>
+<objectCharacteristics>
+<compositionLevel>0</compositionLevel>
+<format>
+<formatDesignation>
+<formatName>application/pdf</formatName>
+</formatDesignation>
+</format>
+</objectCharacteristics>
+</object>
+<object xsi:type="representation">
+<objectIdentifier>
+<objectIdentifierType>FDsys ACP</objectIdentifierType>
+<objectIdentifierValue>R0b002ee1b73ce118</objectIdentifierValue>
+</objectIdentifier>
+</object>
+<object xsi:type="file">
+<objectIdentifier>
+<objectIdentifierType>FDsys ACP</objectIdentifierType>
+<objectIdentifierValue>D09002ee1b73ce1f2</objectIdentifierValue>
+</objectIdentifier>
+<objectCharacteristics>
+<compositionLevel>0</compositionLevel>
+<fixity>
+<messageDigestAlgorithm>SHA-256</messageDigestAlgorithm>
+<messageDigest>54d3add098723b8385ebc5e6750f8b40dd494c77eb8d0802a3310cca1739541d</messageDigest>
+<messageDigestOriginator>FDsys</messageDigestOriginator>
+</fixity>
+<size>2404528</size>
+<format>
+<formatDesignation>
+<formatName>application/pdf</formatName>
+</formatDesignation>
+<formatRegistry>
+<formatRegistryName>PRONOM</formatRegistryName>
+<formatRegistryKey>fmt/18</formatRegistryKey>
+</formatRegistry>
+<formatNote>Acrobat PDF 1.4 - Portable Document Format</formatNote>
+</format>
+</objectCharacteristics>
+<originalName>GOVPUB-HE25-PURL-gpo128990.pdf</originalName>
+<storage>
+<contentLocation>
+<contentLocationType>URI</contentLocationType>
+<contentLocationValue>Public Access Rendition https://www.govinfo.gov/content/pkg/GOVPUB-HE25-PURL-gpo128990/pdf/GOVPUB-HE25-PURL-gpo128990.pdf</contentLocationValue>
+</contentLocation>
+<storageMedium>hard disk</storageMedium>
+</storage>
+<signatureInformation>
+<signature>
+<signatureEncoding/>
+<signer>Superintendent of Documents <pkisupport@gpo.gov></signer>
+<signatureMethod>RSA-SHA256</signatureMethod>
+<signatureValue/>
+<signatureValidationRules>ISO 32000-1:2008 and Adobe Supplement to the ISO 32000-1:2008, Base Level 1.7, Extension Level 3</signatureValidationRules>
+<keyInformation>
+<keyType>RSA</keyType>
+<keyValue>30 82 01 22 30 0D 06 09 2A 86 48 86 F7 0D 01 01 01 05 00 03 82 01 0F 00 30 82 01 0A 02 82 01 01 00 E0 70 B3 3B 67 8C D8 53 F2 BF 1A 70 27 4B 63 82 E9 9D 25 FF 09 6E D5 4D 23 F6 FE 8B 22 D0 68 D1 1E 81 39 C8 11 2D E9 BB 68 37 D4 9B 98 E5 B0 3B D0 23 DB BA 8B 41 5C 4C 86 46 EB B5 42 6E 3E 5A 00 B6 DF 20 CB 60 9A B1 BD C2 A2 D7 93 74 8F 9B 95 3F 5D 93 23 21 2B 93 2E 69 6E 7C 39 37 C1 A6 E3 44 7B 20 70 71 9F 1A BA D5 18 12 2E 0E E8 D4 71 FD F0 2F FC BD DE 88 CF 27 F0 1F 03 25 8C 61 04 CA 0A 94 E2 51 C8 B0 0C 18 07 19 D8 FF 87 B0 63 BC 7D FA A3 02 CA A3 24 BE 25 69 56 B0 E1 81 34 B3 3E 55 9A 64 E6 D2 F0 47 33 AD 52 DC CB 29 9D 4B 6D 6C A1 77 F5 A5 12 F2 9F 90 6B 0F A3 03 68 91 15 09 E1 F2 90 2B 26 49 93 C5 5B 22 F6 DF 95 31 28 25 17 D1 3D B8 50 B2 15 A0 84 4D 3A 2C 13 A7 6D F9 18 CF 1C 6C C4 0F 30 1D D3 55 D8 A7 76 4E D0 85 1C F0 23 D8 D4 65 DF F8 9A 06 82 BB 02 03 01 00 01</keyValue>
+</keyInformation>
+</signature>
+</signatureInformation>
+<relationship>
+<relationshipType>structural</relationshipType>
+<relationshipSubType>is part of</relationshipSubType>
+<relatedObjectIdentification>
+<relatedObjectIdentifierType>FDsys ACP</relatedObjectIdentifierType>
+<relatedObjectIdentifierValue>R0b002ee1b73ce118</relatedObjectIdentifierValue>
+</relatedObjectIdentification>
+</relationship>
+</object>
+<object xsi:type="representation">
+<objectIdentifier>
+<objectIdentifierType>FDsys AIP</objectIdentifierType>
+<objectIdentifierValue>R0b002ee1b73cb15e</objectIdentifierValue>
+</objectIdentifier>
+</object>
+<object xsi:type="file">
+<objectIdentifier>
+<objectIdentifierType>FDsys AIP</objectIdentifierType>
+<objectIdentifierValue>D09002ee1b73cb142</objectIdentifierValue>
+</objectIdentifier>
+<objectCharacteristics>
+<compositionLevel>0</compositionLevel>
+<format>
+<formatDesignation>
+<formatName>application/pdf</formatName>
+</formatDesignation>
+</format>
+</objectCharacteristics>
+</object>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>bfc5f6c1-a995-4cfd-a720-d65eec36aa2c</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Rendition Submitted</eventType>
+<eventDateTime>2022-09-22T11:41:02-04:00</eventDateTime>
+<eventDetail>Rendition R0b002ee1b731995b, uploaded by hotfolderadmin, was submitted in the Submission Information package P0b002ee1b7319959</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>hotfolderadmin</linkingAgentIdentifierValue>
+<linkingAgentRole>implementer</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>R0b002ee1b731995b</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>01465be7-118e-4400-a5a9-1ee979a43d6b</eventIdentifierValue>
+</eventIdentifier>
+<eventType>File Format Identification</eventType>
+<eventDateTime>2022-09-22T11:41:02-04:00</eventDateTime>
+<eventDetail>File format identified for object D09002ee1b73199f1</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>Droid_v106</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73199f1</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>b9fff215-245b-43fe-8b49-f69cef9ed7fc</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Message Digest Calculation</eventType>
+<eventDateTime>2022-09-22T11:41:02-04:00</eventDateTime>
+<eventDetail>Checksum calculated against object D09002ee1b73199f1</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>Documentum Server 22.2.0000.0083 Linux64.Oracle</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73199f1</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>dc0f4eba-957b-4469-806e-fb70bb7d3831</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Virus Check</eventType>
+<eventDateTime>2022-09-22T11:41:02-04:00</eventDateTime>
+<eventDetail>Object D09002ee1b73199f1 inspected for viruses</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>ScanEngine_v8.0</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73199f1</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>ff3a7c9b-88ea-4087-82cb-d448b0c0f5c2</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Submission</eventType>
+<eventDateTime>2022-09-22T17:15:55-04:00</eventDateTime>
+<eventDetail>11002ee180001100 submitted Submission Information Package P0b002ee1b7319959 to the system for ingestion</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>11002ee180001100</linkingAgentIdentifierValue>
+<linkingAgentRole>implementer</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>P0b002ee1b7319959</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>23ded93a-b190-4003-8e30-593f744b13b8</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Crypto Time Stamp Calculation</eventType>
+<eventDateTime>2022-09-22T17:16:26-04:00</eventDateTime>
+<eventDetail>Cryptographic timestamp created for object D09002ee1b73cb142</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>Crypto_v1.0</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73cb142</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>df946eb0-6a6c-4cd7-a29f-6f11c6cc9f4c</eventIdentifierValue>
+</eventIdentifier>
+<eventType>veraPDF-PDF-Features</eventType>
+<eventDateTime>2022-09-22T17:16:26-04:00</eventDateTime>
+<eventDetail>PDF Features profile performed against object D09002ee1b73199f1</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+<eventOutcomeDetail>
+<eventOutcomeDetailExtension>
+<featuresReport/>
+</eventOutcomeDetailExtension>
+</eventOutcomeDetail>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>VeraPDF v.1.20.1</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73199f1</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>f0730dfa-a03c-4ab6-b9b3-a85de946ea19</eventIdentifierValue>
+</eventIdentifier>
+<eventType>veraPDF-PDF-Features</eventType>
+<eventDateTime>2022-09-22T17:16:26-04:00</eventDateTime>
+<eventDetail>PDF Features profile performed against object D09002ee1b73cb142</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+<eventOutcomeDetail>
+<eventOutcomeDetailExtension>
+<featuresReport/>
+</eventOutcomeDetailExtension>
+</eventOutcomeDetail>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>VeraPDF v.1.20.1</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73cb142</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>acce065f-b760-4403-a5f7-431fe6ad8de0</eventIdentifierValue>
+</eventIdentifier>
+<eventType>File Format Identification</eventType>
+<eventDateTime>2022-09-22T17:16:26-04:00</eventDateTime>
+<eventDetail>File format identified for object D09002ee1b73cb142</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>Droid_v106</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73cb142</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>dfde5cdd-d05c-45de-a333-d1f7a87fff1d</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Ingestion</eventType>
+<eventDateTime>2022-09-22T17:16:26-04:00</eventDateTime>
+<eventDetail>Archival Information Package V0b002ee1b73ca8f1 created from Submission Information Package P0b002ee1b7319959 and stored in Archival storage</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>CreateAIPFiles_v1.0</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>V0b002ee1b73ca8f1</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>P0b002ee1b7319959</linkingObjectIdentifierValue>
+<linkingObjectRole>source</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>b19d88a4-b5d8-4633-97f5-cc81a21b22ab</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Message Digest Calculation</eventType>
+<eventDateTime>2022-09-22T17:16:26-04:00</eventDateTime>
+<eventDetail>Checksum calculated against object D09002ee1b73cb142</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>Documentum Server 22.2.0000.0083 Linux64.Oracle</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73cb142</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>f98cce7e-ebbe-482f-9562-13d107227f47</eventIdentifierValue>
+</eventIdentifier>
+<eventType>ACP Creation</eventType>
+<eventDateTime>2022-09-22T17:18:26-04:00</eventDateTime>
+<eventDetail>Access Content Package created from Submission Information Package P0b002ee1b7319959</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>CreateACP_v1.0</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>P0b002ee1b7319959</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>c5aa334e-81e4-4e8d-908d-317b46a602d1</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Parsing</eventType>
+<eventDateTime>2022-09-22T17:20:08-04:00</eventDateTime>
+<eventDetail>Access Content Package P0b002ee1b7319959 was parsed. Descriptive metadata was extracted and persisted in MODS</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>ParsingFramework_v1.1.0</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>P0b002ee1b7319959</linkingObjectIdentifierValue>
+<linkingObjectRole>source</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>9d997fcd-df33-4697-b997-ef30bc9e4beb</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Digital Signature Assignment</eventType>
+<eventDateTime>2022-09-22T17:20:08-04:00</eventDateTime>
+<eventDetail>PDF File D09002ee1b73ce1f2 digitally signed</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>LiveCycle_v11.0.0</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73ce1f2</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>a0f5c3a6-dd03-46bd-89ce-bba5804b749f</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Message Digest Calculation</eventType>
+<eventDateTime>2022-09-22T17:20:08-04:00</eventDateTime>
+<eventDetail>Checksum calculated against object D09002ee1b73ce1f2</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>Documentum Server 22.2.0000.0083 Linux64.Oracle</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73ce1f2</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>041edacc-8c1e-4b9d-aeb4-4a10ae926c33</eventIdentifierValue>
+</eventIdentifier>
+<eventType>File Format Identification</eventType>
+<eventDateTime>2022-09-22T17:20:08-04:00</eventDateTime>
+<eventDetail>File format identified for object D09002ee1b73ce1f2</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>Droid_v106</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>D09002ee1b73ce1f2</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<event>
+<eventIdentifier>
+<eventIdentifierType>FDsys:event</eventIdentifierType>
+<eventIdentifierValue>96d5a995-f087-4f47-a09c-30eb0a126a8d</eventIdentifierValue>
+</eventIdentifier>
+<eventType>Rendition Creation</eventType>
+<eventDateTime>2022-09-22T17:20:08-04:00</eventDateTime>
+<eventDetail>A new rendition R0b002ee1b73ce118 created from rendition R0b002ee1b731995b and added to package P0b002ee1b7319959</eventDetail>
+<eventOutcomeInformation>
+<eventOutcome>Success</eventOutcome>
+</eventOutcomeInformation>
+<linkingAgentIdentifier>
+<linkingAgentIdentifierType>FDsys:agent</linkingAgentIdentifierType>
+<linkingAgentIdentifierValue>CreateAccessRendtions_v1.0</linkingAgentIdentifierValue>
+<linkingAgentRole>executing program</linkingAgentRole>
+</linkingAgentIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>R0b002ee1b73ce118</linkingObjectIdentifierValue>
+<linkingObjectRole>outcome</linkingObjectRole>
+</linkingObjectIdentifier>
+<linkingObjectIdentifier>
+<linkingObjectIdentifierType>FDsys</linkingObjectIdentifierType>
+<linkingObjectIdentifierValue>R0b002ee1b731995b</linkingObjectIdentifierValue>
+<linkingObjectRole>source</linkingObjectRole>
+</linkingObjectIdentifier>
+</event>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>VeraPDF v.1.20.1</agentIdentifierValue>
+</agentIdentifier>
+<agentName>VeraPDF v.1.20.1</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>CreateAIPFiles_v1.0</agentIdentifierValue>
+</agentIdentifier>
+<agentName>CreateAIPFiles_v1.0</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>hotfolderadmin</agentIdentifierValue>
+</agentIdentifier>
+<agentName>hotfolderadmin</agentName>
+<agentType>Person</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>Documentum Server 22.2.0000.0083 Linux64.Oracle</agentIdentifierValue>
+</agentIdentifier>
+<agentName>Documentum Server 22.2.0000.0083 Linux64.Oracle</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>Droid_v106</agentIdentifierValue>
+</agentIdentifier>
+<agentName>Droid_v106</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>11002ee180001100</agentIdentifierValue>
+</agentIdentifier>
+<agentName>11002ee180001100</agentName>
+<agentType>Person</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>Crypto_v1.0</agentIdentifierValue>
+</agentIdentifier>
+<agentName>Crypto_v1.0</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>ScanEngine_v8.0</agentIdentifierValue>
+</agentIdentifier>
+<agentName>ScanEngine_v8.0</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>Droid_v106</agentIdentifierValue>
+</agentIdentifier>
+<agentName>Droid_v106</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>Documentum Server 22.2.0000.0083 Linux64.Oracle</agentIdentifierValue>
+</agentIdentifier>
+<agentName>Documentum Server 22.2.0000.0083 Linux64.Oracle</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>CreateACP_v1.0</agentIdentifierValue>
+</agentIdentifier>
+<agentName>CreateACP_v1.0</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>CreateAccessRendtions_v1.0</agentIdentifierValue>
+</agentIdentifier>
+<agentName>CreateAccessRendtions_v1.0</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>LiveCycle_v11.0.0</agentIdentifierValue>
+</agentIdentifier>
+<agentName>LiveCycle_v11.0.0</agentName>
+<agentType>Software</agentType>
+</agent>
+<agent>
+<agentIdentifier>
+<agentIdentifierType>FDsys:agent</agentIdentifierType>
+<agentIdentifierValue>ParsingFramework_v1.1.0</agentIdentifierValue>
+</agentIdentifier>
+<agentName>ParsingFramework_v1.1.0</agentName>
+<agentType>Software</agentType>
+</agent>
+<rights>
+<rightsStatement>
+<rightsStatementIdentifier>
+<rightsStatementIdentifierType>local</rightsStatementIdentifierType>
+<rightsStatementIdentifierValue>Copyright protection under this title is not available for any work of the United States Government pursuant to Title 17 United States Code chapter 1 section 105</rightsStatementIdentifierValue>
+</rightsStatementIdentifier>
+<rightsBasis>copyright</rightsBasis>
+<copyrightInformation>
+<copyrightStatus>public domain</copyrightStatus>
+<copyrightJurisdiction>United States</copyrightJurisdiction>
+</copyrightInformation>
+</rightsStatement>
+</rights>
+</premis>
+https://web.facebook.com/yusufsuryanata99
