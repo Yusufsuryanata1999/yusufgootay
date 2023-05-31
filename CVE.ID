@@ -1,0 +1,12 @@
+
+{
+  "error": "string",
+  "message": "string",
+  "details": [
+    {
+      "msg": "string",
+      "param": "string",
+      "location": "body"
+    }
+  ]
+}
