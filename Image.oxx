@@ -1,0 +1,94 @@
+name = "image-classifier-worker"
+main = "src/index.ts"
+compatibility_date = "2022-07-12"
+
+constellation = [
+    {
+      binding = 'CLASSIFIER',
+      project_id = '2193053a-af0a-40a6-b757-00fa73908ef6'
+    },
+]
+$ wget https://github.com/microsoft/onnxjs-demo/raw/master/docs/squeezenet1_1.onnx
+$ npx wrangler constellation model upload "image-classifier" "squeezenet11" squeezenet1_1.onnx
+nd finally, let’s code and deploy our image classification script:
+
+import { imagenetClasses } from './imagenet';
+
+import { Tensor, run } from '@cloudflare/constellation';
+
+export interface Env {
+
+    CLASSIFIER: any,
+
+}
+
+export default {
+
+    async fetch(request: Request, env: Env, ctx: ExecutionContext) {
+
+        const formData = await request.formData();
+
+        const file = formData.get("file");
+
+        const data = await file.arrayBuffer();
+
+        const result = await processImage(env, data);
+
+        return new Response(JSON.stringify(result));
+
+    },
+
+};
+
+async function processImage(env: Env, data: ArrayBuffer) {
+
+    const input = await decodeImage(data)
+
+    const tensorInput = new Tensor("float32", [1, 3, 224, 224], input)
+
+    const output = await run(env.CLASSIFIER, "MODEL-UUID", tensorInput);
+
+    const probs = output.squeezenet0_flatten0_reshape0.value
+
+    const softmaxResult = softmax(probs)
+
+    const results = imagenetClasses(softmaxResult, 5);
+
+    const topResult = results[0];
+
+    return topResult
+    
+    $ curl https://ai.cloudflare.com/demos/image-classifier -F file=@images/mountain.png | jq .name
+
+alp
+
+$ curl https://ai.cloudflare.com/demos/image-classifier -F file=@images/car.png | jq .name
+
+convertible
+
+$ curl https://ai.cloudflare.com/demos/image-classifier -F file=@images/dog.png | jq .name
+
+Ibizan hound
+
+}
+
+import * as PostalMime from 'postal-mime';yusufsuryanata91@gmail.com
+export interface Env {
+    SENTIMENT: any,
+}
+
+export default {
+  async email(message, env, ctx) {
+    const rawEmail = await streamToArrayBuffer(event.raw, event.rawSize);
+    const parser = new PostalMime.default();
+    const parsedEmail = await parser.parse(rawEmail);
+
+    const input = tokenize(parsedEmail.text)
+    const output = await run( env.SENTIMENT, "MODEL-UUID", input);
+
+
+    var headers = new Headers();
+    headers.set("X-Sentiment", idToLabel[output.label]);
+    await message.forward("gooddestination@example.com", headers);
+  }
+}
