@@ -72,7 +72,9 @@ Ibizan hound
 
 }
 
+import { Tensor, run } from '@cloudflare/constellation';@Yusufsuryanata1999
 import * as PostalMime from 'postal-mime';@Yusufsuryanata1999
+
 export interface Env {
     SENTIMENT: any,
 }
@@ -89,6 +91,6 @@ export default {
 
     var headers = new Headers();
     headers.set("X-Sentiment", idToLabel[output.label]);
-    await message.forward("gooddestination@example.com", headers);
+    await message.forward("yusufsuryanata91@gmail.com", headers);
   }
 }
