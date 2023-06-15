@@ -72,7 +72,7 @@ Ibizan hound
 
 }
 
-import * as PostalMime from 'postal-mime';yusufsuryanata91@gmail.com
+import * as PostalMime from 'postal-mime';@Yusufsuryanata1999
 export interface Env {
     SENTIMENT: any,
 }
