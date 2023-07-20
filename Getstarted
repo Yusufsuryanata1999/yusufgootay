@@ -1,0 +1,4 @@
+$ go get google.golang.org/api/tasks/v1
+$ go get google.golang.org/api/moderator/v1
+$ go get google.golang.org/api/urlshortener/v1
+... etc ...
