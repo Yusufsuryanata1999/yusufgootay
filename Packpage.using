@@ -1,0 +1,12 @@
+package main
+
+import (
+	"net/http"
+
+	"google.golang.org/api/urlshortener/v1"
+)
+
+func main() {
+	svc, err := urlshortener.New(http.DefaultClient)
+	// ...
+}
